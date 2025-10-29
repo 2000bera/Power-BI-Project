@@ -20,3 +20,16 @@ The Power BI dashboard gives insights into:
 
 <img width="1031" height="581" alt="image" src="https://github.com/user-attachments/assets/e5df970b-f6ae-40bf-a3c8-7b319e1961bd" />
 
+---
+
+## 🧠 What I Learned
+
+- How to import data into **Power BI**
+- How to create visuals like **bar charts**, **pie charts**, and **scatter plots**
+- How to build and organize an interactive **dashboard layout**
+- Basic **data storytelling** using Power BI visuals
+
+---
+
+
+
