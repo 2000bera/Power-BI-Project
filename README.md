@@ -22,6 +22,14 @@ The Power BI dashboard gives insights into:
 
 ---
 
+## 🛠️ Tools Used
+
+- **Microsoft Power BI Desktop**
+- **Excel / CSV file** (for data preparation)
+
+---
+
+
 ## 🧠 What I Learned
 
 - How to import data into **Power BI**
@@ -31,5 +39,8 @@ The Power BI dashboard gives insights into:
 
 ---
 
+## ⚙️ Challenges Faced
 
-
+1. **Choosing the Right Visuals** 
+2. **Visual Layout and Design**
+3. **Understanding Relationships**
