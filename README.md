@@ -15,3 +15,7 @@ The Power BI dashboard gives insights into:
 - 🥧 **Department Distribution (Pie Chart)**
 
 ---
+
+## 🖼️ Dashboard Preview
+
+[employee-Visualization.pdf](https://github.com/user-attachments/files/23208227/employee-Visualization.pdf)
