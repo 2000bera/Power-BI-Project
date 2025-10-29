@@ -18,4 +18,5 @@ The Power BI dashboard gives insights into:
 
 ## 🖼️ Dashboard Preview
 
-[employee-Visualization.pdf](https://github.com/user-attachments/files/23208227/employee-Visualization.pdf)
+<img width="1031" height="581" alt="image" src="https://github.com/user-attachments/assets/e5df970b-f6ae-40bf-a3c8-7b319e1961bd" />
+
